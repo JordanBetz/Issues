@@ -17,6 +17,3 @@ Issues will be triaged and categorized accordingly by repository maintainers. Ea
 
 ## Code of Conduct
 I will adhere to the Code of Conduct outlined in this repository. Respectful and constructive communication is essential for maintaining a collaborative and inclusive environment.
-
-## Contact
-For inquiries or assistance, please contact me at your@email.com.
